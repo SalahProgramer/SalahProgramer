@@ -23,3 +23,6 @@ jobs:
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_threshold: 0%
+
+      - name: Purge jsdelivr cache
+        run: curl -s "https://purge.jsdelivr.net/gh/SalahProgramer/SalahProgramer@main/github-metrics.svg"

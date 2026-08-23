@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SalahProgramer/SalahProgramer/main/github-metrics.svg" alt="GitHub metrics" />
+<img src="https://cdn.jsdelivr.net/gh/SalahProgramer/SalahProgramer@main/github-metrics.svg" alt="GitHub metrics" />
 
 </div>
 
